@@ -1,0 +1,5 @@
+id_tiket,nama_penumpang,asal,tujuan,tanggal_keberangkatan,jam_keberangkatan,harga,status
+T001,Kevin Juliano,Jakarta,Bandung,2026-07-01,08:00,15000,Dipesan
+T002,Seano,Surabaya,Jakarta,2026-07-02,10:00,20000,Dipesan
+T003,Julian,Subang,Purwakarta,2026-07-03,12:00,25000,Dipesan
+T004,Martin Ed,Bogor,Tasik,2026-07-04,14:00,35000,Dibatalkan
